@@ -1,0 +1,5 @@
+GNOME Shell is the graphical shell of the GNOME desktop environment starting with version 3, which was released on April 6, 2011. It provides basic functionality like launching applications, switching between windows and is also a widget engine. GNOME Shell replaced GNOME Panel and some ancillary components in GNOME 2.
+
+GNOME Shell is written in C and JavaScript as a plugin for Mutter.
+
+In contrast to the KDE Plasma Workspaces, a software framework intended to facilitate the creation of multiple graphical shells for different devices, the GNOME Shell is intended to be used on desktop computers with large screens operated via keyboard and mouse, as well as portable computers with smaller screens operated via their keyboard, touchpad or touchscreen.
