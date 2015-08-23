@@ -11,7 +11,5 @@ msgfmt -o desktop_en.mo desktop_en.po
 echo "desktop/messages_en.mo created !"
 cd ../pages/
 echo "run ubuntu-config."
-python main_page.py&
-echo "You can exit this terminal."
-exit
-
+python main_page.py
+# echo "You can exit this terminal."
