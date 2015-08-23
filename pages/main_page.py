@@ -9,7 +9,7 @@ def init_localization():
   locale.setlocale(locale.LC_ALL, '') # use user's preferred locale
   # take first two characters of country code
   loc = locale.getlocale()
-  filename = "../lang/main/messages_%s.mo" % locale.getlocale()[0][0:2]
+  filename = "../lang/main_%s.mo" % locale.getlocale()[0][0:2]
 
   try:
     logging.debug( "Opening message file %s for locale %s", filename, loc[0] )
@@ -55,7 +55,7 @@ class MainPage(Gtk.Window):
         self.add(self.notebook)
 
     def popup_desktop_install_dialog(self, desktop):
-        _dialog = Gtk.Dialog(title="Desktop Install", button="Install")
+        _dialog = Gtk.Dialog(title=_("Desktop Install"), button=_("Install"))
 
         _dialog.run()
 

@@ -8,7 +8,7 @@ def init_localization():
   locale.setlocale(locale.LC_ALL, '') # use user's preferred locale
   # take first two characters of country code
   loc = locale.getlocale()
-  filename = "../lang/desktop/messages_%s.mo" % locale.getlocale()[0][0:2]
+  filename = "../lang/desktop_%s.mo" % locale.getlocale()[0][0:2]
 
   try:
     logging.debug( "Opening message file %s for locale %s", filename, loc[0] )
