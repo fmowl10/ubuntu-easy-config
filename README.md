@@ -1,4 +1,4 @@
-# ubuntu-config <br/>
+# ubuntu-easy-config (ubuntu-config) <br/>
 This is a program that helps you to setup Ubuntu easily. <br/>
 ##How to Run Program <br/>
 1)open terminal <br/>
