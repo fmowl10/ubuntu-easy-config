@@ -3,7 +3,7 @@
 #
 # See LICENSE file for copyright and license details
 #
-# This program written for noob for ubuntu and "Korean Setting" by minwook Shin and fmowl10
+# This program written for noob for ubuntu and "Korean Setting" by minwook Shin and hedone21, fmowl10
 # in 21st and 22sc of November 2015
 
 
