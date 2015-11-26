@@ -1,6 +1,6 @@
 # ubuntu-easy-config (ubuntu-config) <br/>
 This is a program that helps you to setup Ubuntu easily. <br/>
-made by minwook Shin and hedone21, fmowl10 <br/ >
+made by minwook Shin and hedone21, fmowl10
 
 ##How to Set Before Run <br/ >
 1)open terminal <br/>
@@ -10,8 +10,8 @@ made by minwook Shin and hedone21, fmowl10 <br/ >
 5)./ubuntu-easy-config -s<br/ >
 
 ##How to add option <br/ >
-./ubuntu-easy-config.sh [option] <br/ >
-option: <br/ >
+./ubuntu-easy-config.sh [option]
+option:
 -h, --help	show help.<br/ >
 -v, --version	version info.<br/ >
 -s, --setting	PROGRAM setting.<br/ >
