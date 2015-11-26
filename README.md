@@ -12,9 +12,9 @@ made by minwook Shin and hedone21, fmowl10 <br/ >
 ##How to add option <br/ >
 ./ubuntu-easy-config.sh [option] <br/ >
 option: <br/ >
--h, --help	show help.<br/ >
--v, --version	version info.<br/ >
--s, --setting	PROGRAM setting.<br/ >
+-h, --help	(show help).<br/ >
+-v, --version	(version info).<br/ >
+-s, --setting	(PROGRAM setting).<br/ >
 
 ##How to Run Program <br/>
 1)cd ubuntu-easy-config/ <br/>
