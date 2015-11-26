@@ -22,7 +22,7 @@ argcv()
     then
         if [ "$argv1" == "-h" -o "$argv1" == "--help" ];
         then
-            echo -e "사용법: ./ubuntu-easy-config.sh [옵션]"
+            echo -e "사용볍: ./ubuntu-easy-config.sh [옵션]"
             echo -e "옵션:"
             echo -e "\t-h, --help\t도움말을 보여줍니다."
             echo -e "\t-v, --version\t버전 정보를 보여줍니다."

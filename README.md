@@ -10,7 +10,7 @@ made by minwook Shin and hedone21, fmowl10
 5)./ubuntu-easy-config -s<br/ >
 
 ##How to add option <br/ >
-사용볍: ./ubuntu-easy-config.sh [option]
+./ubuntu-easy-config.sh [option]
 option:
 -h, --help	show help.<br/ >
 -v, --version	version info.<br/ >
