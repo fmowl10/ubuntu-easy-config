@@ -9,7 +9,7 @@
 
 
 
-VERSION=0.0.1 #버전
+VERSION=0.1.1 #버전
 argc=$#       #인자들
 argv0=$0
 argv1=$1
