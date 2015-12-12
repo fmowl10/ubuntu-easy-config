@@ -1,4 +1,4 @@
-Assets folder savei every non source code resources, for example text, image, 
+Assets folder save every non source code resources, for example text, image,
 video, etc. Assets' path is saved in config.py file. When you add new 
 categorized folder, you should write a line in config.py. For instance, 
 if you create "3d-video" folder, then you put 

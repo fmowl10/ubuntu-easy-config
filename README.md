@@ -1,10 +1,10 @@
 # ubuntu-easy-config (ubuntu-config) <br/>
 This is a program that helps you to setup Ubuntu easily. <br/>
-made by minwook Shin and hedone21, fmowl10 <br
+made by minwook Shin and hedone21, fmowl10 <br/>
 
 #License: MIT
 
-##How to Set Before Run <br/ >
+##How to Set Before Run <br/>
 1)open terminal <br/>
 2)sudo apt-get install git<br />
 3)git clone https://github.com/minwook-shin/ubuntu-easy-config.git <br/>
