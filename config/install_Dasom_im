@@ -1,0 +1,6 @@
+#!/bin/sh
+#over 14.04
+add-apt-repository ppa:dasom/ppa
+apt-get update
+apt-get install dasom dasom-gtk dasom-gt dasom-jeongeum
+

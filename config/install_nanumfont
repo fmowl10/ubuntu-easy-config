@@ -1,0 +1,11 @@
+#!/bin/sh
+mkdir /usr/share/fonts/truetype/nanum
+wget -P /usr/share/fonts/truetype/nanum/ http://cdn.naver.com/naver/NanumFont/fontfiles/NanumFont_TTF_ALL.zip
+unzip /usr/share/fonts/truetype/nanum/NanumFont_TTF_ALL.zip /usr/share/fonts/truetype/nanum/
+rm -f /usr/share/fonts/truetype/nanum/NanumFont_TTF_ALL.zip
+
+#apply
+gsettings set org.gnome.desktop.interface document-font-name 'NanumGothic Regular 10'
+gsettings set org.gnome.desktop.interface font-name 'NanumGothic Regular 10'
+gsettings set org.gnome.desktop.interface monospace-font-name 'Ubuntu Mono 13'
+gsettings set org.gnome.nautilus.desktop font 'NanumGothic Regular 10'
