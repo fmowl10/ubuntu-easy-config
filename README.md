@@ -1,3 +1,4 @@
+[![codebeat badge](https://codebeat.co/badges/35845e4a-a488-49e6-ab7b-fb72dc891dde)](https://codebeat.co/projects/github-com-minwook-shin-ubuntu-easy-config)
 # ubuntu-easy-config (ubuntu-config) <br/>
 This is a program that helps you to setup Ubuntu easily. <br/>
 made by minwook Shin and hedone21, fmowl10 <br/>
