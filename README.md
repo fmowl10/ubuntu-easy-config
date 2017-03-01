@@ -4,7 +4,7 @@
 
 # ubuntu-easy-config (ubuntu-config) <br/>
 This is a program that helps you to setup Ubuntu easily. <br/>
-made by minwook Shin and hedone21, fmowl10 <br/>
+made by minwook-shin and hedone21, fmowl10 <br/>
 
 #License: MIT
 
