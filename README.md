@@ -15,7 +15,7 @@ made by minwook-shin and hedone21, fmowl10 <br/>
 4)cd ubuntu-easy-config/ <br/ >
 5)./ubuntu-easy-config -s<br/ >
 
-## How to add option <br/ >
+## How to add option <br/>
 ./ubuntu-easy-config.sh [option] <br/ >
 option: <br/ >
 -h, --help	(show help).<br/ >
